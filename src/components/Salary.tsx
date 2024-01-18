@@ -45,7 +45,7 @@ const Salary:React.FC = () => {
         <div>
     
             <Link to={'/'} className="flex justify-center items-center w-14 text-white my-5 mx-8 gap-2" >
-                <img src="/src/assets/img/Back.png" alt="back" className="w-4"/>
+                <img src="../assets/img/Back.png" alt="back" className="w-4"/>
                  <b>Back</b> 
             </Link>
             <div className="grid justify-items-center text-white my-10 border-solid border-2 mx-4">
